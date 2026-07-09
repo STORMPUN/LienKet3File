@@ -1,0 +1,49 @@
+body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150%;
+}
+
+/* 3. Tạo kiểu cho nội dung chính */
+main {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* 4. Thẻ tiêu đề (header) */
+header {
+    background-color: #f8f9fa;
+}
+
+/* 5. Thẻ nav */
+nav {
+    background-color: #343a40;
+}
+
+/* 6. Thẻ chính (main) - sửa lại cho khớp yêu cầu */
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+}
+
+/* 7. Thẻ chân trang (footer) */
+footer {
+    background-color: #e9ecef;
+}
+
+/* 8. Thẻ li (liên quan đến menu) */
+nav ul li {
+    display: inline-block;
+    width: 150px;
+}
+
+/* 9. Thẻ h1 */
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #2c3e50;
+}
+
+/* 10. Thẻ p */
+p {
+    line-height: 1.5;
+}
